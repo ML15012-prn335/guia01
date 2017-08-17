@@ -8,7 +8,8 @@
  *
  * @author usuario
  */
-public class UTILITIES {
+public class Utilities {
+    
 
     public static void main(String[] args) {
         System.out.println(getResume("somewhere i lost i piece of me la letra de una cancion cualquiera")); 
@@ -72,5 +73,6 @@ public class UTILITIES {
         }
         return contador;//regresa la cantidad de palabras encontradas
     }
+    
+    
 }
-
